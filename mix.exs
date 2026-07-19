@@ -18,7 +18,6 @@ defmodule Tesk.MixProject do
 
   def cli do
     [
-      default_env: :local,
       preferred_envs: [docs: :docs]
     ]
   end
