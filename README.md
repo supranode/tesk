@@ -8,7 +8,7 @@ Functions such as `Task.async/3` are intentionally not implemented, since awaiti
 
 ## Installation
 
-Add `:tesk` to your project's dependencies in `mix.exs`:
+Add `:tesk` to your project's dependencies in the `mix.exs` file:
 
 ```elixir
 def deps do
@@ -18,7 +18,7 @@ def deps do
 end
 ```
 
-And fetch your project's dependencies `mix deps.get`.
+And then fetch your project's dependencies: `mix deps.get`
 
 ## Usage
 
